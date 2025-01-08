@@ -1,5 +1,5 @@
 # A Vue 3 + Vite + Tailwind Project
- Just check the documentation on starting your installing npm on your machine. After that just 
+ Just check the documentation on installing npm for your machine. After that just 
 ````
 npm install
 ````
